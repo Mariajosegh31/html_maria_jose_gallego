@@ -1,4 +1,4 @@
-document.addEventListener("DOMcontentloaded", () => {
+document.addEventListener("DOMContentLoaded", () => {
   const cardsAdj = [
     {
       name: "Caballo",
